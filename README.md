@@ -1,22 +1,22 @@
 <div dir="rtl">
 
-<img src="assets/hero.svg?v=6" alt="استودیو تایمر رویداد — نصب‌ساز رسمی" width="100%" />
+<img src="assets/hero.svg?v=7" alt="استودیو تایمر Timo — نصب‌ساز رسمی" width="100%" />
 
-**استودیو تایمر رویداد** — ابزار شمارش معکوس رویداد با تقویم جلالی، پیش‌نمایش صحنه و تور آموزشی؛ برای اجرای زنده‌ی رویدادها روی ویندوز.
+**استودیو تایمر Timo** — ابزار شمارش معکوس رویداد با تقویم جلالی، پیش‌نمایش صحنه و تور آموزشی؛ برای اجرای زنده‌ی رویدادها روی ویندوز.
 
 | نسخه‌ی فعلی | حجم فایل | سیستم‌عامل | اتصال |
 |:---:|:---:|:---:|:---:|
-| 0.5.2 | حدود ۸۳ مگابایت | ویندوز ۱۰/۱۱ (۶۴ بیتی) | کاملاً آفلاین |
+| 0.6.0 | حدود ۸۳ مگابایت | ویندوز ۱۰/۱۱ (۶۴ بیتی) | کاملاً آفلاین |
 
-<img src="assets/features.svg?v=6" alt="امکانات استودیو تایمر رویداد" width="100%" />
+<img src="assets/features.svg?v=7" alt="امکانات استودیو تایمر Timo" width="100%" />
 
 ## دانلود
 
 <p align="right">
-<a href="https://github.com/IRDcode/event-timer-distribution/releases/latest" style="display:inline-block; background:linear-gradient(135deg,#FFB03A,#E0592A); color:#1A0E05; padding:15px 40px; border-radius:10px; font-weight:800; text-decoration:none; font-size:19px;">دانلود آخرین نسخه — 0.5.2</a>
+<a href="https://github.com/IRDcode/timo-distribution/releases/latest" style="display:inline-block; background:linear-gradient(135deg,#FFB03A,#E0592A); color:#1A0E05; padding:15px 40px; border-radius:10px; font-weight:800; text-decoration:none; font-size:19px;">دانلود آخرین نسخه — 0.6.0</a>
 </p>
 
-- فایل نصب: `Event.Timer.Studio-0.5.2-setup.exe`
+- فایل نصب: `Timo-0.6.0-setup.exe`
 - فقط فایل `setup.exe` را دانلود کنید؛ `latest.yml` و `.blockmap` مخصوص به‌روزرسانی خودکار برنامه‌اند.
 - شرح تغییرات هر نسخه، در صفحه‌ی همان انتشار نوشته شده است.
 
@@ -24,7 +24,8 @@
 
 1. فایل `setup.exe` را اجرا کنید.
 2. ویندوز ۱۰ یا ۱۱، نسخه‌ی ۶۴ بیتی — پیش‌نیاز دیگری لازم نیست.
-3. نصب نسخه‌ی تازه روی نسخه‌ی قبلی، همان نصب را به‌روز می‌کند؛ تنظیمات و رویدادها دست‌نخورده می‌مانند.
+3. نصب نسخه‌های بعدی روی نسخه‌ی فعلی، همان نصب را به‌روز می‌کند؛ تنظیمات و رویدادها دست‌نخورده می‌مانند.
+4. نسخه‌ی ۰.۶.۰ (تغییر نام به تایمو) از صفر شروع می‌شود و کلید فعال‌سازی را دوباره می‌خواهد.
 
 ## فعال‌سازی
 
