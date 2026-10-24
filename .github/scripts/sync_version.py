@@ -9,7 +9,7 @@ import json
 import os
 import urllib.request
 
-REPO = "IRDcode/event-timer-distribution"
+REPO = "IRDcode/timo-distribution"
 TAG = os.environ.get("TAG", "").strip()
 if not TAG:
     raise SystemExit("TAG env var is required (e.g. TAG=v0.5.0)")
