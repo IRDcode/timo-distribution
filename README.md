@@ -1,22 +1,22 @@
 <div dir="rtl">
 
-<img src="assets/hero.svg?v=7" alt="استودیو تایمر Timo — نصب‌ساز رسمی" width="100%" />
+<img src="assets/hero.svg?v=8" alt="استودیو تایمر Timo — نصب‌ساز رسمی" width="100%" />
 
 **استودیو تایمر Timo** — ابزار شمارش معکوس رویداد با تقویم جلالی، پیش‌نمایش صحنه و تور آموزشی؛ برای اجرای زنده‌ی رویدادها روی ویندوز.
 
 | نسخه‌ی فعلی | حجم فایل | سیستم‌عامل | اتصال |
 |:---:|:---:|:---:|:---:|
-| 0.6.0 | حدود ۸۳ مگابایت | ویندوز ۱۰/۱۱ (۶۴ بیتی) | کاملاً آفلاین |
+| 0.6.2 | حدود ۸۳ مگابایت | ویندوز ۱۰/۱۱ (۶۴ بیتی) | کاملاً آفلاین |
 
 <img src="assets/features.svg?v=7" alt="امکانات استودیو تایمر Timo" width="100%" />
 
 ## دانلود
 
 <p align="right">
-<a href="https://github.com/IRDcode/timo-distribution/releases/latest" style="display:inline-block; background:linear-gradient(135deg,#FFB03A,#E0592A); color:#1A0E05; padding:15px 40px; border-radius:10px; font-weight:800; text-decoration:none; font-size:19px;">دانلود آخرین نسخه — 0.6.0</a>
+<a href="https://github.com/IRDcode/timo-distribution/releases/latest" style="display:inline-block; background:linear-gradient(135deg,#FFB03A,#E0592A); color:#1A0E05; padding:15px 40px; border-radius:10px; font-weight:800; text-decoration:none; font-size:19px;">دانلود آخرین نسخه — 0.6.2</a>
 </p>
 
-- فایل نصب: `Timo-0.6.0-setup.exe`
+- فایل نصب: `Timo-0.6.2-setup.exe`
 - فقط فایل `setup.exe` را دانلود کنید؛ `latest.yml` و `.blockmap` مخصوص به‌روزرسانی خودکار برنامه‌اند.
 - شرح تغییرات هر نسخه، در صفحه‌ی همان انتشار نوشته شده است.
 
